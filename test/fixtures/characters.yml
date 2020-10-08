@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  allegience: MyString
+  number_of_films_appeared: 1
+  planet: MyString
+  weapon_of_choice: MyString
+  species: MyString
+  force_sensitive: false
+
+two:
+  name: MyString
+  allegience: MyString
+  number_of_films_appeared: 1
+  planet: MyString
+  weapon_of_choice: MyString
+  species: MyString
+  force_sensitive: false
